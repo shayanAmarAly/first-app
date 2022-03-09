@@ -1,0 +1,5 @@
+Router: it is used to change the component in react website
+if we make a website in react becasue react is used for maeking single page application 
+instead of all or same material came into the website again we just change does 
+component which we want to change. these all are done by react router DOM in react
+there is no page reload into the react website and also smooth navigation

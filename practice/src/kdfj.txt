@@ -1,0 +1,8 @@
+//This is necessary for everyone to know that when you use JSX You use className
+        //Instead of class, use {} to use JS in JSX, tabIndex instead of tabindex,
+        // htmlFor instead of 'for'
+        //Return 1 element in the function
+        //but if you wanna return 2 element YOu will need JSX fragmentation LIke <>
+        Wrap the text in b/w these brackets
+        <></> we wrap the whole code in theses brackets in order to avoid error
+        you don't need to 
